@@ -14,7 +14,8 @@ MIDI.loadPlugin({
     onsuccess: function() { }
 });
 ```
-
+Also, I have no idea how to tell MIDI.js to play an instrument whose name isn't General MIDI.
+If it needs to change to `acoustic_grand_piano` let me know.
 
 ### With [soundfont-player](https://github.com/danigb/soundfont-player)
 
