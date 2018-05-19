@@ -19,7 +19,7 @@ MIDI.loadPlugin({
 ### With [soundfont-player](https://github.com/danigb/soundfont-player)
 
 ```javascript
-Soundfont.instrument(ac, 'percussion-mp3.js', { from: 'https://notochord.github.io/percussion-soundfont.js/' })
+Soundfont.instrument(ac, 'https://notochord.github.io/percussion-soundfont.js/percussion-mp3.js')
 ```
 
 ## Credits
