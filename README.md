@@ -20,7 +20,8 @@ If it needs to change to `acoustic_grand_piano` let me know.
 ### With [soundfont-player](https://github.com/danigb/soundfont-player)
 
 ```javascript
-Soundfont.instrument(ac, 'https://notochord.github.io/percussion-soundfont.js/percussion-mp3.js')
+Soundfont.instrument(new AudioContext(), 'https://notochord.github.io/percussion-soundfont.js/percussion-mp3.js')
+  .then(drums => drums.play(64));
 ```
 
 ## Credits
