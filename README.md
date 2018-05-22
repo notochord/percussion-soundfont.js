@@ -2,7 +2,7 @@ This is a JS percussion SoundFont that is compatible with [MIDI.js](https://gith
 
 ## Usage
 
-The drum names are listed in [drums.json](https://github.com/notochord/percussion-soundfont.js/blob/master/drums.json). There are some issues with inconsistent hyphenation but it's officially that way on the [MIDI website] so.
+The drum names are listed in [drums.json](https://github.com/notochord/percussion-soundfont.js/blob/master/drums.json). There are some issues with inconsistent hyphenation but it's officially that way on the [MIDI website](https://www.midi.org/specifications-old/item/gm-level-1-sound-set) so.
 
 ### With [MIDI.js](https://github.com/mudcube/MIDI.js)
 
