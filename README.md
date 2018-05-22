@@ -26,6 +26,6 @@ Soundfont.instrument(new AudioContext(), 'https://notochord.github.io/percussion
 
 ## Credits
 
-This is an adaptation of the [GeneralUser](http://www.schristiancollins.com/generaluser.php) SoundFont, and was converted to JS by [https://github.com/letoribo] in [this repository](https://github.com/letoribo/General-MIDI-Percussion-soundfonts-for-MIDI.js-).
-I just put the files in this repo for safekeeping, but [https://github.com/letoribo] gets all the credit for the actual conversion.
+This is an adaptation of the [GeneralUser](http://www.schristiancollins.com/generaluser.php) SoundFont, and was converted to JS by [letoribo](https://github.com/letoribo) in [this repository](https://github.com/letoribo/General-MIDI-Percussion-soundfonts-for-MIDI.js-).
+I just put the files in this repo for safekeeping, but [letoribo](https://github.com/letoribo) gets all the credit for the actual conversion.
 Check out their project [drums.herokuapp.com](https://drums.herokuapp.com/)!
